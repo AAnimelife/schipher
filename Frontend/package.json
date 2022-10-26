@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ckeditor4-vue": "^1.5.1",
+    "vue-cookies": "^1.7.4"
+  },
+  "devDependencies": {
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0"
+  }
+}
